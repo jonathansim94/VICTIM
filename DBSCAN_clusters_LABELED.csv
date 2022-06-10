@@ -1,0 +1,12 @@
+,Review,Cluster,Cluster_topics
+0,"The place is really beautiful, it's full of restaurants and stunning views. I will definitely be back.",0,"['restaurants', 'lawns', 'place']"
+1,"A perfect place for the family, there are vast lawns for picnicking and relaxing outdoors. The perfect place to enjoy nature.",0,"['restaurants', 'lawns', 'place']"
+2,"There are no toilets, the staff are rude and a waiter insulted me.",1,"['maintenance', 'toilets', 'service']"
+3,"The place is great, surrounded by nature, clean air.",0,"['restaurants', 'lawns', 'place']"
+4,"In the restaurant you eat very well, I will also bring my friends",0,"['restaurants', 'lawns', 'place']"
+5,"Rude staff, will never go back, bad service.",1,"['maintenance', 'toilets', 'service']"
+6,"Toilets out of order, no maintenance, bad.",1,"['maintenance', 'toilets', 'service']"
+7,"The monument is well cared for, fantastic, the guides very well prepared.",2,"['toner', 'guides', 'monument']"
+8,The guide was very knowledgeable and friendly. We will toner.,2,"['toner', 'guides', 'monument']"
+9,"It's not possible that the toilets will never work, all out of order.",1,"['maintenance', 'toilets', 'service']"
+10,I would like to return soon to immerse myself in nature and have a picnic with my family.,0,"['restaurants', 'lawns', 'place']"
